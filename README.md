@@ -1,2 +1,8 @@
-# real-time-chat-application
-A real-time chat application is a dynamic communication platform designed to facilitate instant messaging and interaction between users. Key features include:      Instant Messaging: Users can exchange messages in real time, ensuring quick and seamless communication.     User Authentication: Secure login system to protect user privacy and data. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
